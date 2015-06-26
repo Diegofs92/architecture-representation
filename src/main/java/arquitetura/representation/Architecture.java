@@ -64,7 +64,7 @@ public class Architecture extends Variable {
             return PrioritizedConcerns;
         }
         
-        public void savePrioritizedConcerns(ArrayList<Concern> PrioriConcerns){
+        public void savePrioritizedConcerns(List<Concern> PrioriConcerns){
             PrioritizedConcerns = PrioriConcerns;
         }
 
